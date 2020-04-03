@@ -1,0 +1,7 @@
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\bin\Debug\doesNothingTwo.exe.config
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\bin\Debug\doesNothingTwo.exe
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\bin\Debug\doesNothingTwo.pdb
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\obj\Debug\doesNothingTwo.csprojAssemblyReference.cache
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\obj\Debug\doesNothingTwo.csproj.CoreCompileInputs.cache
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\obj\Debug\doesNothingTwo.exe
+C:\Users\Evan\source\repos\doesNothingTwo\doesNothingTwo\obj\Debug\doesNothingTwo.pdb
